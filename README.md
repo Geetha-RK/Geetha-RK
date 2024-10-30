@@ -11,6 +11,7 @@ I hold certifications as a Salesforce Platform Developer and Salesforce Administ
 I am actively seeking opportunities in full-stack development. If you’re looking for a passionate developer to join your team, please feel free to reach out!
 
 💡 Focus Areas
-Full Stack Development: HTML5, CSS, Sass, Tailwind, JavaScript, React.js, Axios, Node.js, Express, Postman, MySQL, MongoDB
+Full Stack Development: HTML5, CSS, Sass, Tailwind, JavaScript, React.js, typescript, Axios, Node.js, Express, Postman, MySQL, MongoDB, bootstrap, git figma
+
 
 -->
